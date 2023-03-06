@@ -1,0 +1,15 @@
+C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\WorkApp.exe.config
+C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\WorkApp.exe
+C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\WorkApp.pdb
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.csproj.AssemblyReference.cache
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.Form1.resources
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.Properties.Resources.resources
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.csproj.GenerateResource.cache
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.exe
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.pdb
+C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\MySql.Data.dll
+C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\Google.Protobuf.dll
+C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\MySql.Data.xml
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.csproj.CopyComplete
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.Form2.resources
