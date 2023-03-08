@@ -49,6 +49,7 @@ namespace WorkApp
             this.ClientSize = new System.Drawing.Size(709, 326);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Arşiv";
             this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

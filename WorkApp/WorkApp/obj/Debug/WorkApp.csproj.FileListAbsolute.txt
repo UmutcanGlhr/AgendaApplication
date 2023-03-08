@@ -13,3 +13,4 @@ C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\Google.Protobuf.dll
 C:\Users\umutc\source\repos\WorkApp\WorkApp\bin\Debug\MySql.Data.xml
 C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.csproj.CopyComplete
 C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.Form2.resources
+C:\Users\umutc\source\repos\WorkApp\WorkApp\obj\Debug\WorkApp.Form3.resources
